@@ -5,11 +5,9 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   
-<<<<<<< HEAD
-  <build>
-=======
+
+
 <build>
->>>>>>> branch 'master' of https://github.com/Rookie-zheng/TestGit.git
         <plugins>
             <!-- compiler插件, 设定JDK版本 -->
             <plugin>
